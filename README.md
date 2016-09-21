@@ -3,10 +3,11 @@
 
 
 ####Installation 
-'''sh install.sh'''
+```sh install.sh```
 
 ####Usage
 Modify buy.py with the product you wish to purchase, shipping information and payment info.
-'''Python buy.py'''
+\n
+```Python buy.py```
 
 ####TODO: Make this more user friendly.
